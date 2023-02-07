@@ -1,3 +1,6 @@
 [submodule "final-projects"]
 	path = final-projects
 	url = https://github.com/bayutp/notes-apps.git
+[submodule "contact-apps"]
+	path = contact-apps
+	url = https://github.com/bayutp/React-Pemula.git
