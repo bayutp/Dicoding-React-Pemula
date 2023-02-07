@@ -1,6 +1,3 @@
-[submodule "React-Pemula"]
-	path = React-Pemula
-	url = https://github.com/bayutp/React-Pemula.git
 [submodule "final-projects"]
 	path = final-projects
 	url = https://github.com/bayutp/notes-apps.git
